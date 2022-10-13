@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    font-size: 85px;
+    margin-top: 1%;
+    font-family: 'Times New Roman', Times, serif;
+    color: hsl(41, 69%, 55%);
+}
+
+html {
+    background-color: hsl(20, 50%, 35%);
+}
+
+.container {
+    background-color: rgba(245, 245, 245, 0.678);
+    width: 350px;
+    text-align: center;
+    border: 5px solid black;
+    margin: auto;
+    height: 280px;
+}
+
+h3 {
+    margin-top: 1cm;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
